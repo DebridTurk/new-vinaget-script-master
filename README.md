@@ -53,3 +53,4 @@ Limit load file per time
 Auto del file per time  
 Max total jobs in this host  
 Max server load (linux)  
+Mr.Coder *-*
