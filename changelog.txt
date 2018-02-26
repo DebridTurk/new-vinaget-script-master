@@ -1,0 +1,41 @@
+v10:
+- Update datafile.com: require chmod 666 datafile_descrypt.html
+- Update fshare.vn
+- Update README.md
+- Support quick link in ads shorten link service
+v9:
+- Add Uploadgig.com
+- Change up.4share.vn to 4share.vn
+- Change keep2share.cc, keep2s.cc to k2s.cc
+- Updated Novafile.com, Subyshare.com, Katfile.com, Share-online.biz, Yunfile.com
+- Updated GetCookies, GetAllCookies in class.php
+v8:
+- Change code rapidgator.net
+- Fix fshare.vn
+- Updated depfile.us
+v7:
+- Fixed uploaded.net
+- Change depfile.com to depfile.us
+- Updated depfile.us
+v6:
+- Support mega.nz
+- Small bugs fixes
+v5:
+- Add depfile.us
+- Updated extmatrix.com, rapidgator.net, depfile.com
+- Add class passredirect in class.php
+- Miss function delete account die in checkaccount.php
+v4:
+- Updated 1fichier.com, rapidgator.net
+- Fixed get wrong filename of download link
+- Added function not delete account die in menu check account
+- Fixed non-static class in class.php
+- Added prefiles.com, filejoker.net
+- Change to version 3.3 LTSB
+v3:
+- Fixed overflow table admin cookie, account, checkacc
+- Updated alfafile.net, filefactory.com, depositfiles.com, yunfile.com, katfile.com, catshare.net, turbobit.net, rapidgator.net
+v2:
+- Small bugs fixed
+v1:
+- First release v3.2 Dev
