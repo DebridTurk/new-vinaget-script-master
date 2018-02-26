@@ -1,6 +1,6 @@
 New Vinaget Script 3.3 LTSB - Developed by LTT♥  
 Referer from: https://github.com/giaythuytinh176/vinaget-script   
-Contact email for request plugin updates: lethanhtuan2897@gmail.com  
+Contact email for request plugin updates: tolunay@soldiervinaget.com 
 
 ######################################  
 How to use:  
